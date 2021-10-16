@@ -22,5 +22,4 @@ import javax.ws.rs.core.Application
         Tag(name = "numbers", description = "Anybody can access")
     ]
 )
-class NumberMicroservices : Application() {
-}
+class NumberMicroservices : Application()
